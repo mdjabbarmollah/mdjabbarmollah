@@ -86,9 +86,13 @@
   <img src="https://streak-stats.demolab.com?user=mdjabbarmollah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<!-- Snake Contribution Animation -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdjabbarmollah&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdjabbarmollah&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdjabbarmollah/mdjabbarmollah/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdjabbarmollah/mdjabbarmollah/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mdjabbarmollah/mdjabbarmollah/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 <hr />
@@ -100,6 +104,11 @@
 * 📧 **Email:** mdjabbarmollah718@gmail.com
 
 <hr />
+
+<!-- Profile Views Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdjabbarmollah&label=Profile%20Views&color=005088&style=flat" alt="Profile views" />
+</p>
 
 <!-- Closing Greeting -->
 <h3 align="center">⭐ Thanks for visiting my profile!</h3>
