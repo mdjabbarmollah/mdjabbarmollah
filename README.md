@@ -24,10 +24,11 @@
 
 <!-- About Me Section -->
 ## 🙋‍♂️ About Me
-* 🔭 I am a dedicated Full Stack Web Developer building modern and scalable web applications.
-* 🎯 My goal is to craft clean, high-performance, and user-centric web applications.
-* 💬 Ask me about **HTML5, CSS3, Tailwind CSS, JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB**.
-* 📫 Reach me at: **mdjabbarmollah718@gmail.com**
+🔭 I am a dedicated Full Stack Web Developer building modern and scalable web applications.<br>
+🎯 My goal is to craft clean, high-performance, and user-centric web applications.<br>
+💬 Ask me about **HTML5, CSS3, Tailwind CSS, JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB**.<br>
+📫 Reach me at: **mdjabbarmollah718@gmail.com**
+
 
 <br/>
 
